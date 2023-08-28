@@ -2,6 +2,6 @@
 
 This is a testing project for learning Git.
 
-And now we're active on github.
+Now we're active on github.com.
 
 This is for testing purposes only!
